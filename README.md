@@ -1,7 +1,7 @@
 
 # 👋 Hi, I'm Anchal Pandey
 
-🎓 Computer Science Graduate  
+  
 💻 Aspiring Data Analyst & Software Developer  
 🐍 Python | SQL | Data Analytics | AI  
 🚀 Passionate about learning, building and creating with technology
