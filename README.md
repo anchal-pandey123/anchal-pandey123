@@ -111,7 +111,7 @@ Machine Learning██████░░░░ 60%
 
 📫 Connect With Me
 
-💼 LinkedIn: YOUR_LINKEDIN_LINK
+💼 LinkedIn: https://www.linkedin.com/in/anchal-pandey-8474b9301
 
 
 ---
