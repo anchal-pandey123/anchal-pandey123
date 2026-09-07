@@ -25,7 +25,7 @@
 - 📊 Data Analytics Projects
 
 ## 📫 Connect With Me
-- LinkedIn: Add your LinkedIn profile here
+- LinkedIn:https://www.linkedin.com/in/anchal-pandey-8474b9301
 
 ---
 
