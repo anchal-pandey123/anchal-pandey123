@@ -10,7 +10,6 @@
 
 ## 🧑‍💻 About Me
 
-- 🎓 Computer Science Graduate
 - 🐍 Currently learning Python & Data Science
 - 📊 Interested in Data Analytics
 - 🤖 Exploring Artificial Intelligence & Machine Learning
