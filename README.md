@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi 👋, I'm Anchal Pandey
 
-<!--
-**anchal-pandey123/anchal-pandey123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Graduate  
+💻 Aspiring Data Analyst & Software Developer  
+🐍 Learning Python, SQL & Data Science  
+🤖 Interested in AI & Machine Learning  
 
-Here are some ideas to get you started:
+## 🚀 Skills
+- Python
+- SQL
+- Data Analytics
+- AI & Machine Learning
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Currently Learning
+- Python
+- Data Science
+- Power BI
+- Machine Learning
+
+## 📂 Projects
+- 🌱 Smart Irrigation System
+- 📰 Fake News Detection
+- 🤖 AI Projects
+- 📊 Data Analytics Projects
+
+## 📫 Connect With Me
+- LinkedIn: Add your LinkedIn profile here
+
+---
+
+⭐ Thanks for visiting my profile!
